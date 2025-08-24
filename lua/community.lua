@@ -6,5 +6,7 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.python" },
+  { import = "astrocommunity.pack.c" },
+  { import = "astrocommunity.pack.cpp" },
   -- import/override with your plugins folder
 }
